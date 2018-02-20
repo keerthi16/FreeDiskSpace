@@ -1,0 +1,21 @@
+{
+  "name": "freediskspace",
+  "version": "1.0.0",
+  "description": "Get available disk space on windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npm run build",
+    "build": "MSBuild.exe FreeDiskSpace.sln /t:rebuild /p:Configuration=Release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthi16/FreeDiskSpace.git"
+  },
+  "author": "Keerthi Niranjan <keerthiniranjan16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthi16/FreeDiskSpace/issues"
+  },
+  "homepage": "https://github.com/keerthi16/FreeDiskSpace#readme"
+}
