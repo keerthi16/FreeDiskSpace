@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FreeDiskSpace")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple utility for windows which return free disk space available for the given partition.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Symphony Communication Services, LLC")]
 [assembly: AssemblyProduct("FreeDiskSpace")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]

@@ -1,5 +1,5 @@
 # FreeDiskSpace
-A simple utility for windows which return free disk space available for the given disk name.
+A simple utility for windows which return free disk space available for the given partition.
 
 Note: application requires .NET 3.5 framework (or higher).
 
